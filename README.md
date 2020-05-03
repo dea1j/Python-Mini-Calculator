@@ -1,2 +1,2 @@
 # Python-Mini-Calculator
-A mini Python calculator App without GUI
+A Mini responsive Python calculator App without GUI
